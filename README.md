@@ -7,65 +7,7 @@ All photos are embedded directly in the file — **no server or database needed*
 
 ## 🌐 Live Demo
 
-> 🔗 **[Add your live link here after deployment]**
-
----
-
-## 📁 File Structure
-
-```
-praveen_matrimony.html   ← Single self-contained website file (all-in-one)
-README.md                ← This file
-```
-
----
-
-## 🚀 How to Deploy (Make it Live)
-
-### Option 1 — Netlify Drop *(Easiest, 30 seconds)*
-1. Go to [netlify.com/drop](https://netlify.com/drop)
-2. Drag & drop `praveen_matrimony.html`
-3. Copy the live link — done ✅
-
-### Option 2 — GitHub Pages *(Free & permanent)*
-1. Create a free account at [github.com](https://github.com)
-2. Click **New Repository** → name it `profile` (or anything)
-3. Upload `praveen_matrimony.html` and rename it to `index.html`
-4. Go to **Settings → Pages → Source → main branch**
-5. Your link: `https://your-username.github.io/profile`
-
-### Option 3 — Tiiny.host *(No account needed)*
-1. Go to [tiiny.host](https://tiiny.host)
-2. Upload the HTML file
-3. Get an instant shareable link
-
----
-
-## 👤 Profile Details
-
-| Field | Details |
-|---|---|
-| Name | Praveen S |
-| Date of Birth | 08 April 1999 |
-| Place of Birth | Krishnagiri |
-| Rashi | Sagittarius (Dhanusu) |
-| Nakshatra | Pooradam (Purvashada) |
-| Caste | Vaniya Chettiar |
-| Education | B.E |
-| Company | Infosys, Bangalore |
-| Salary | ₹11 Lakhs P.A. |
-| Height | 168 cm |
-
----
-
-## ✨ Features
-
-- Responsive design — works on mobile & desktop
-- Photo gallery with click-to-zoom lightbox
-- All images embedded (no external hosting needed)
-- Elegant warm gold & dark brown theme
-- Smooth animations and hover effects
-- One-tap call & email buttons in contact section
+> 🔗 **https://spraveeen.github.io/Profile/**
 
 ---
 
